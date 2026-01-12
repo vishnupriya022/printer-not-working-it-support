@@ -1,0 +1,27 @@
+# Printer Not Working – IT Support Ticket
+
+## Issue
+User reported that the printer was not available. The printer did not appear in Windows settings and the system prompted to add a new device.
+
+## Environment
+- Operating System: Windows 10
+- Device: Network Printer
+
+## Troubleshooting Steps
+1. Opened Windows Settings → Printers & scanners.
+2. Confirmed that no physical printer was detected.
+3. Verified printer power and network connectivity.
+4. Attempted to add printer using "Add device".
+5. Restarted Print Spooler service.
+
+## Root Cause
+Printer connection was unavailable, so Windows could not detect the device.
+
+## Resolution
+Printer connection was restored and the device was added successfully.
+
+## Screenshots
+### Printer Not Detected 
+![Printer Not Detected](screenshots/printer-not-detected.png)
+## Status
+Resolved
