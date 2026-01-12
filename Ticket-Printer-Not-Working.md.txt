@@ -4,7 +4,7 @@
 User reported that the printer was not available. The printer did not appear in Windows settings and the system prompted to add a new device.
 
 ## Environment
-- Operating System: Windows 11
+- Operating System: Windows 10
 - Device: Network Printer
 
 ## Troubleshooting Steps
@@ -25,4 +25,5 @@ Printer connection was restored and the device was added successfully.
 ![Printer Not Detected](screenshots/printer-not-detected.png)
 
 ## Status
+
 Resolved
